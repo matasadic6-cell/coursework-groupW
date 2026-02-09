@@ -6,7 +6,7 @@ package com.mycompany.vehicleauctionsystem;
 
 /**
  *
- * @author suuna stanely
+ * @author battiibwe sadic
  */
 import java.util.Scanner;
 
