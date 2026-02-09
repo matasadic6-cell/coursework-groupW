@@ -5,7 +5,7 @@
 
 /**
  *
- * @author leens
+ * @author groupw
  */
 public class RegistrationForm extends javax.swing.JFrame {
 
