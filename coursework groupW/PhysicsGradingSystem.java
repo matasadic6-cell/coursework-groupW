@@ -6,7 +6,7 @@ package com.mycompany.physicsgradingsystem;
 
 /**
  *
- * @author Suuna Stanely
+ * @author battiibwe sadic
  */
 import java.util.Scanner;
 
